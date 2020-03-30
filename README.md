@@ -9,6 +9,7 @@ This script reads iStat's battery history database and calculates your average a
 
 ## Sample output
 ```
+$ python3 battrate.py
 (%/hr)  Max   Average
 Day     -48       -24
 Week    -39       -19
